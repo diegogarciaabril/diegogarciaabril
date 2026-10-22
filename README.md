@@ -7,7 +7,7 @@ Me encanta unir dos mundos: **el código y lo visual**. Sé construir una web de
 
 - 🎮 Ahora mismo estoy creando un **juego web por turnos** desde cero.
 - 🌱 Sigo aprendiendo cada día y mejorando mis proyectos.
-- 💼 **Busco trabajo** como desarrollador web (frontend, backend o full stack) o en puestos donde se mezclen tecnología y contenido audiovisual.
+- 💼 **Busco trabajo** como desarrollador web (frontend, backend o full stack) o en puestos relacionados con la tecnología y el contenido audiovisual.
 - 📍 España · Abierto a remoto, híbrido o presencial.
 
 ---
