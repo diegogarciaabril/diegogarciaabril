@@ -63,7 +63,4 @@ Me encanta unir dos mundos: **el código y lo visual**. Sé construir una web de
 
 <p align="center"><i>¿Tienes una oferta o un proyecto en mente? ¡Escríbeme! 🤝</i></p>
 
-<!-- ═══════════════ PIE ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=110&section=footer" />
-</p>
+
